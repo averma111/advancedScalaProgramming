@@ -1,0 +1,4 @@
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/home/ashish/workspace-scala/sparkScdTypeOne/"), "sparkscdtypeone")...
+[debug] Done updating ProjectRef(uri("file:/home/ashish/workspace-scala/sparkScdTypeOne/"), "sparkscdtypeone")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.

@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="feda782c-0ba2-4a8d-8e69-13421b15275d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/modules/sparkScdTypeOne-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules/sparkScdTypeOne.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/.bloop/higherorderfunctions-test.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/.bloop/higherorderfunctions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/.bloop/higherorderfunctions/higherorderfunctions-analysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/.bloop/higherorderfunctions/scala-2.12/bloop-bsp-clients-classes/classes-Metals-XXRpvydQSNSBW5Ivg1c55w==/META-INF/semanticdb/src/main/scala/higherOrderFunctions.scala.semanticdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/.bloop/higherorderfunctions/scala-2.12/bloop-bsp-clients-classes/classes-Metals-XXRpvydQSNSBW5Ivg1c55w==/higherOrderFunctions$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/.bloop/higherorderfunctions/scala-2.12/bloop-bsp-clients-classes/classes-Metals-XXRpvydQSNSBW5Ivg1c55w==/higherOrderFunctions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/.bloop/higherorderfunctions/scala-2.12/bloop-internal-classes/classes-Metals-XXRpvydQSNSBW5Ivg1c55w==-IE3xJ_OyQ46tIoNd-NT6-g==/META-INF/semanticdb/src/main/scala/higherOrderFunctions.scala.semanticdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/.bloop/higherorderfunctions/scala-2.12/bloop-internal-classes/classes-Metals-XXRpvydQSNSBW5Ivg1c55w==-IE3xJ_OyQ46tIoNd-NT6-g==/higherOrderFunctions$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/.bloop/higherorderfunctions/scala-2.12/bloop-internal-classes/classes-Metals-XXRpvydQSNSBW5Ivg1c55w==-IE3xJ_OyQ46tIoNd-NT6-g==/higherOrderFunctions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/.bsp/sbt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/.metals/metals.h2.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/.metals/metals.lock.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/.metals/metals.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/.scalafmt.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/.bloop/higherorderfunctions-build.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/config-classes/$2136222b1f60b6bbc002$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/config-classes/$2136222b1f60b6bbc002.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/config-classes/$2136222b1f60b6bbc002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/config-classes/$305a559a57b40029f9ad$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/config-classes/$305a559a57b40029f9ad.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/config-classes/$305a559a57b40029f9ad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/config-classes/$56bda9b54c568df23525$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/config-classes/$56bda9b54c568df23525.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/config-classes/$56bda9b54c568df23525.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/config-classes/$8726f99e5a26f0673937$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/config-classes/$8726f99e5a26f0673937.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/config-classes/$8726f99e5a26f0673937.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/config-classes/$e3bd68fd106556054f9f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/config-classes/$e3bd68fd106556054f9f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/config-classes/$e3bd68fd106556054f9f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/_global/_global/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/_global/csrConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/_global/csrProject/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/_global/ivyConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/_global/ivySbt/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/_global/moduleSettings/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/_global/projectDescriptors/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/_global/update/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/compile/_global/_global/discoveredMainClasses/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/compile/bloopGenerate/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/compile/bspReporter/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/compile/compile/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/compile/compileIncremental/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/compile/copyResources/_global/streams/copy-resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/compile/incOptions/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/compile/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/compile/internalDependencyClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/compile/scalacOptions/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/compile/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/compile/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/compile/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/it/bloopGenerate/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/runtime/internalDependencyClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/runtime/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/runtime/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/runtime/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/project/target/streams/test/bloopGenerate/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/global-logging/sbt-global-log1125739446427768911.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/global-logging/sbt-global-log5003513752503701843.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/global-logging/sbt-global-log6879278982727303386.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/scala-2.12/update/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/scala-2.12/update/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/streams/_global/csrConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/streams/_global/csrProject/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/streams/_global/ivyConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/streams/_global/ivySbt/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/streams/_global/moduleSettings/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/streams/_global/projectDescriptors/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/streams/_global/update/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/streams/_global/updateClassifiers/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/streams/compile/bloopGenerate/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/streams/compile/scalacOptions/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/streams/compile/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/streams/compile/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/streams/compile/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/streams/it/bloopGenerate/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/streams/runtime/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/streams/test/bloopGenerate/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/streams/test/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/streams/test/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/streams/test/scalacOptions/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/streams/test/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/streams/test/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../higherOrderFunctions/target/streams/test/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/.scalafmt.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/_global/_global/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/_global/csrConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/_global/csrProject/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/_global/ivyConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/_global/ivySbt/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/_global/moduleSettings/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/_global/projectDescriptors/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/_global/update/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/compile/_global/_global/discoveredMainClasses/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/compile/bloopGenerate/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/compile/bspReporter/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/compile/compile/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/compile/compileIncremental/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/compile/copyResources/_global/streams/copy-resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/compile/incOptions/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/compile/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/compile/internalDependencyClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/compile/scalacOptions/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/compile/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/compile/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/compile/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/it/bloopGenerate/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/runtime/internalDependencyClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/runtime/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/runtime/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/runtime/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/project/target/streams/test/bloopGenerate/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/src/main/scala/scalaFunctions.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scalaFunctions/src/main/scala/scalaFunctionsNext.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.bsp/sbt.json" beforeDir="false" afterPath="$PROJECT_DIR$/.bsp/sbt.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/10878cf1-94f8-44c8-9b2b-6e2f6e7e1939.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/10878cf1-94f8-44c8-9b2b-6e2f6e7e1939/storage_v2/_src_/schema/employees.he85nQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/10878cf1-94f8-44c8-9b2b-6e2f6e7e1939/storage_v2/_src_/schema/employees.he85nQ.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/10878cf1-94f8-44c8-9b2b-6e2f6e7e1939/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_protobuf_protobuf_java_2_5_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__mysql_mysql_connector_java_5_1_24_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/sparkScdTypeOne.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/sparkScdTypeOne.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/src/config/scala.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/lib.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/lib/lib.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$703527bf6356623134b6$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$703527bf6356623134b6.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$703527bf6356623134b6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$aa856f98788fdc1243f4$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$aa856f98788fdc1243f4.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$aa856f98788fdc1243f4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$af91896debbb3086b7ce$.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/config-classes/$af91896debbb3086b7ce$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scdTypeOne.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.history3" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scdTypeOne$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/scdTypeOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/src/utils/utils.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/utils.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sparkScdTypeOne" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Class" />
+        <option value="Scala Trait" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/build.sbt" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1jtt8kIjcymITbxM29UoRzhrzQN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable" value="ALL" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="build.tools" />
+  </component>
+  <component name="RunManager">
+    <configuration name="runScd" type="Application" factoryName="Application" temporary="true">
+      <envs>
+        <env name="JAVA_HOME" value="$USER_HOME$/java" />
+        <env name="SPARK_HOME" value="$USER_HOME$/spark" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="runScd" />
+      <module name="sparkScdTypeOne" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.runScd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="feda782c-0ba2-4a8d-8e69-13421b15275d" name="Default Changelist" comment="" />
+      <created>1604635058744</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604635058744</updated>
+      <workItem from="1604635060049" duration="657000" />
+      <workItem from="1604635735768" duration="122000" />
+      <workItem from="1604635873671" duration="11265000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
