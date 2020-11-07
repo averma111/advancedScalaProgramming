@@ -8,7 +8,7 @@ object runScd {
   val URL = "jdbc:mysql://localhost:3306/employees"
   val DRIVER = "com.mysql.cj.jdbc.Driver"
   val USER = "root"
-  val PASS = "Neoman#02"
+  val PASS = "******"
   val FORMAT = "jdbc"
 
   val logger = Logger("Root")
@@ -103,7 +103,6 @@ object runScd {
     //Writing the records to database
     writtoDbEmployeeTgt("employee_tgt", empInsert,"append")
 
-    //update employees.employees set first_name="Ashish" where emp_no=10081
     //Importing changed source and target for lookup
     val emp_src_chg = readFromDbEmployee("employees")
     val emp_tgt_chg = readFromDbEmployee("employee_tgt")
