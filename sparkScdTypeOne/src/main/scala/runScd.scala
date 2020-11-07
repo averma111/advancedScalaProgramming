@@ -33,10 +33,10 @@ object runScd {
     dfcreate
   }
 
-  def writtoDbEmployeeTgt(tablenameTarget: String, writeDataFrame: DataFrame): Unit = {
+  def writtoDbEmployeeTgt(tablenameTarget: String, writeDataFrame: DataFrame,mode:String): Unit = {
     writeDataFrame
       .write.format(FORMAT)
-      .mode("append")
+      .mode(mode)
       .option("url", URL)
       .option("driver", DRIVER)
       .option("dbtable", tablenameTarget)
@@ -101,7 +101,7 @@ object runScd {
         col("hire_date_src").alias("hire_date")
       )
     //Writing the records to database
-    writtoDbEmployeeTgt("employee_tgt", empInsert)
+    writtoDbEmployeeTgt("employee_tgt", empInsert,"append")
 
     //update employees.employees set first_name="Ashish" where emp_no=10081
     //Importing changed source and target for lookup
@@ -129,7 +129,9 @@ object runScd {
         .withColumn("upd",
           when(
             (col("emp_no") === col("emp_no_tgt")) &&
-              (col("first_name") !== col("first_name_tgt")), "update"
+              (col("first_name") !== col("first_name_tgt")) ||
+              col("last_name") !== col("last_name_tgt")
+            , "update"
           )
             .otherwise("NA")
         )
@@ -181,7 +183,12 @@ object runScd {
     )
     //Merging all the df as DML is not allowed in spark
     val finalDf = scd_ins.union(scd_upd).union(scd_overriden)
-   // finalDf.show()
-    writtoDbEmployeeTgt("employee_tgt", finalDf)
+   //finalDf.show()
+    //scd_ins.show()
+
+   //scd_upd.show()
+
+    //scd_overriden.show()
+    writtoDbEmployeeTgt("employee_tgt", finalDf,"overwrite")
   }
 }

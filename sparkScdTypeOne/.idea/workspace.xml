@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="feda782c-0ba2-4a8d-8e69-13421b15275d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/active.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/runScd.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/runScd.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/global-logging/sbt-global-log368417043374738144.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/global-logging/sbt-global-log8344820557031909214.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/runScd$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/runScd$.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/runScd.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/runScd.class" afterDir="false" />
     </list>
@@ -96,17 +99,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.runScd" />
@@ -123,7 +115,8 @@
       <updated>1604635058744</updated>
       <workItem from="1604635060049" duration="657000" />
       <workItem from="1604635735768" duration="122000" />
-      <workItem from="1604635873671" duration="15761000" />
+      <workItem from="1604635873671" duration="16480000" />
+      <workItem from="1604784285908" duration="1566000" />
     </task>
     <servers />
   </component>
